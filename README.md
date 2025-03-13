@@ -102,7 +102,7 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4)
 
 ### 🔥 GitHub Contributions
 
