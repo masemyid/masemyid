@@ -2,29 +2,24 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBuOXVocGg4OG1lZXRtZW4zb2d2ZTBjeHJ3dHN6YnlpN2h5Z2s0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif"  />
 </div>
 
-###
-
 <h2 align="center">Hi 👋, I'm Manuel Setyo</h2>
-
-###
 
 <p align="center">I'm a passionate developer and designer focusing on **Technology** (coding for websites and desktop apps) and **Design** (graphic design & UI/UX). I love building scalable web applications and crafting elegant user experiences, and I'm based in Semarang, Indonesia.</p>
 
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/masemyid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/masemyid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61553844653382" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
 </div>
 
-###
+### 🛠 Languages and Tools:
 
-<h4 align="left">🛠 Languages and Tools:</h4>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -162,42 +157,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-</div>
 
-###
+### 📊 GitHub Stats:
 
-<h4 align="left">📊 GitHub Stats:</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=masemyid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=masemyid&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=masemyid&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-###
+### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masemyid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masemyid&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=masemyid&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<img src="https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-###
-
-<h4 align="left">🏆 GitHub Trophies</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h4 align="left">🔥 GitHub Contributions</h4>
+### 🔥 GitHub Contributions
 
 ###
 
 <img src="https://raw.githubusercontent.com/masemyid/masemyid/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
-###
+### ❤️ Support Me
 
-<h4 align="left">❤️ Support Me</h4>
+You can help me by **donating** or supporting my work through sponsorships!
 
-###
-
-<p align="left">You can help me by **donating** or supporting my work through sponsorships!<br><br>[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FCC200?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)<br>[![Buy Me a Coffee Dark](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)</p>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FCC200?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
+[![Buy Me a Coffee Dark](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
