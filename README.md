@@ -102,13 +102,11 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4)
 
 ### 🔥 GitHub Contributions
 
-###
-
-<img src="https://raw.githubusercontent.com/masemyid/masemyid/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+![GitHub Contribution Graph](https://raw.githubusercontent.com/masemyid/masemyid/output/pacman-contribution-graph.svg)
 
 ### ❤️ Support Me
 
