@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Manuel Setyo</h2>
 
-<p align="center">I'm a passionate developer and designer focusing on **Technology** (coding for websites and desktop apps) and **Design** (graphic design & UI/UX). I love building scalable web applications and crafting elegant user experiences, and I'm based in Semarang, Indonesia.</p>
+<p align="center">I'm a passionate developer and designer focusing on <b>Technology</b> (coding for websites and desktop apps) and <b>Design</b> (graphic design & UI/UX). I love building scalable web applications and crafting elegant user experiences, and I'm based in Semarang, Indonesia.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/masemyid/" target="_blank">
