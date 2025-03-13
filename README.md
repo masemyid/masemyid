@@ -112,5 +112,5 @@
 
 You can help me by **donating** or supporting my work through sponsorships!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FCC200?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
-[![Buy Me a Coffee Dark](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
+<!-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FCC200?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
+[![Buy Me a Coffee Dark](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username) -->
