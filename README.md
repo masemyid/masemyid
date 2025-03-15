@@ -1,8 +1,11 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBuOXVocGg4OG1lZXRtZW4zb2d2ZTBjeHJ3dHN6YnlpN2h5Z2s0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif"  />
-</div>
+<!-- markdownlint-disable MD033 -->
 
-<h2 align="center">Hi 👋, I'm Manuel Setyo</h2>
+<h1 align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBuOXVocGg4OG1lZXRtZW4zb2d2ZTBjeHJ3dHN6YnlpN2h5Z2s0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" height="150" alt="Man Code" />
+
+Hi 👋, I'm Manuel Setyo
+
+</h1>
 
 <p align="center">I'm a passionate developer and designer focusing on <b>Technology</b> (coding for websites and desktop apps) and <b>Design</b> (graphic design & UI/UX). I love building scalable web applications and crafting elegant user experiences, and I'm based in Semarang, Indonesia.</p>
 
@@ -18,7 +21,7 @@
   </a>
 </div>
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
