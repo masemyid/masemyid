@@ -106,8 +106,6 @@
 
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/masemyid/masemyid/output/pacman-contribution-graph.svg "GitHub Contribution Graph")
 
-![Snake Animation](https://raw.githubusercontent.com/masemyid/masemyid/output/snake.svg)
-
 ### ❤️ Support Me
 
 You can help me by **donating** or supporting my work through sponsorships!
