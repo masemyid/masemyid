@@ -97,13 +97,13 @@ Hi 👋, I'm Manuel Setyo
 
 ### 📊 GitHub Stats
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=masemyid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=masemyid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true)
-![Streak Graph](https://streak-stats.demolab.com?user=masemyid&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=masemyid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=masemyid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true)
+![Streak Graph](https://streak-stats.demolab.com?user=masemyid&locale=en&mode=daily&hide_border=true&border_radius=5)
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true)
 
 ### 🔥 GitHub Contributions
 
