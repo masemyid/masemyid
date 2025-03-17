@@ -19,6 +19,8 @@ Hi 👋, I'm Manuel Setyo
 
 ### 🛠 Languages and Tools
 
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -51,19 +53,33 @@ Hi 👋, I'm Manuel Setyo
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-FCFCFC?logo=shortcut&logoColor=black)
 
+</div>
+
 ### 📊 GitHub Stats
+
+<div align="center">
 
 ![Stats Graph](https://github-readme-stats.vercel.app/api?username=masemyid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true)
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=masemyid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true)
 ![Streak Graph](https://streak-stats.demolab.com?user=masemyid&locale=en&mode=daily&hide_border=true&border_radius=5)
 
+</div>
+
 ### 🏆 GitHub Trophies
+
+<div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true)
 
+</div>
+
 ### 🔥 GitHub Contributions
 
+<div align="center">
+
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/masemyid/masemyid/output/pacman-contribution-graph.svg "GitHub Contribution Graph")
+
+</div>
 
 ### ❤️ Support Me
 
