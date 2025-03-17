@@ -45,6 +45,11 @@ Hi 👋, I'm Manuel Setyo
 ![VSCode](https://img.shields.io/badge/VSCode-0098FF?logo=dailydotdev&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-00C8FF?logo=adonisjs&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adonisjs&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9A30FF?logo=adonisjs&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-FCFCFC?logo=shortcut&logoColor=black)
 
 ### 📊 GitHub Stats
 
@@ -66,3 +71,5 @@ You can help me by **donating** or supporting my work through sponsorships!
 
 <!-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FCC200?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
 [![Buy Me a Coffee Dark](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username) -->
+
+<!-- [Img Shield Icon](https://simpleicons.org/) -->
